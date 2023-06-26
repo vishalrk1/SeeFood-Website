@@ -1,7 +1,7 @@
 # SeeFood Website
 SeeFood is an website with image classification model which classifies uploaded food image and then displaces similara dishes, theri recipies and caloric breackdowns
 
-**More details about ML model is [available hear](https://github.com/vishalrk1/SeeFood)**
+**More details about ML model and project workflow is [available hear](https://github.com/vishalrk1/SeeFood)**
 
 ## Tech Stack
 - Next JS 13
