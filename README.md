@@ -3,6 +3,9 @@ SeeFood is an website with image classification model which classifies uploaded 
 
 **More details about ML model and project workflow is [available hear](https://github.com/vishalrk1/SeeFood)**
 
+- **NextJS Frontend code is availabel in [frontend folder](https://github.com/vishalrk1/SeeFood-Website/tree/master/frontend)**
+- **Django REST api code for image classification is available in [backend folder](https://github.com/vishalrk1/SeeFood-Website/tree/master/backend)**
+
 ## Tech Stack
 - Next JS 13
 - React JS
