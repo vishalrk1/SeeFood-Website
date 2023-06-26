@@ -15,6 +15,10 @@ SeeFood is an website with image classification model which classifies uploaded 
 - python
 - Javascript
 
+## Project Flow Chart
+
+<img src="./screenshots/FlowChart.jpeg" width="700px"></img>
+
 ## Website Screenshots
 
 ![](screenshots/img-1.png)
